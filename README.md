@@ -92,3 +92,9 @@ This will display help for the tool. Here are all the switches it supports.
   inside403 -u https://sub.domain.tld/403here/
   inside403 -u https://my.domain.com/admin.php
   ```
+   <br>
+  
+  You can use this tool on output of **HTTPX** tool for automation :)
+  ```sh
+  inside403 -l httpxResults.txt
+  ```
