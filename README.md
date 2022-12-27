@@ -57,7 +57,7 @@ This will display help for the tool. Here are all the switches it supports.
 [FLAGS:]
     [TARGET:]
        -l, --list       target URLs/hosts to scan
-       -u, --url        Target URL+Directory to Scan
+       -u, --url        Target URL+Directory to Scan, Single URL
 
 
     [WORDLIST:]
