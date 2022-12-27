@@ -33,6 +33,14 @@ For complete installation, run following command
   cd inside403
   bash installer.sh
 ```
-  
+<br>
+<br>
   
 ## USAGE
+ ### Usage
+
+```sh
+inside403 -h
+```
+This will display help for the tool. Here are all the switches it supports.
+
