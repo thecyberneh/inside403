@@ -19,6 +19,15 @@
   <a href="#running-inside403">How to run effectively</a>
 </p>
 
+---
+
+INSIDE403 is a simple shell script to find web directories or file which has 403 status code and try to bypass it.
+This tools has 2 modes
+1. URL Bypass
+2. URL List
+
+In URL List mode, first of all, this tool finds paths/files which has 403 status code and after that, it tries to bypass it with different payloads.
+
 ## Install INSIDE403
 INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>.<br>
 Also this tool will consider following wordlist as default wordlist.
