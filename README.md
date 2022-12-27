@@ -24,5 +24,15 @@ Also this tool will consider following wordlist as default wordlist.
 ```
 Default Worslist at :- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 ```
-
+<br>
+<br>
+  
+For complete installation, run following command
+```sh
+  git clone https://github.com/thecyberneh/inside403.git
+  cd inside403
+  bash installer.sh
+```
+  
+  
 ## USAGE
