@@ -19,7 +19,7 @@
 </p>
 
 ## Install INSIDE403
-INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>.
+INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>.<br>
 Also this tool will consider following wordlist as default wordlist.
 ```
 Default Worslist at :- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
