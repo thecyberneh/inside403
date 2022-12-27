@@ -19,5 +19,6 @@
 </p>
 
 ## Install INSIDE403
+INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>
 
 ## USAGE
