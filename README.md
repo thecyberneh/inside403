@@ -10,5 +10,5 @@
 </p>
 <p align="center">
 <a><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-inside403-green.svg"></a>
-<a><img title="Version" src="https://img.shields.io/badge/Version-5.0-green.svg?style=flat-square"></a>
+<a><img title="Version" src="https://img.shields.io/badge/Version-v1.0.0_dev-blue.svg"></a>
 </p>
