@@ -82,3 +82,13 @@ This will display help for the tool. Here are all the switches it supports.
        -h, --help    to get help menu 
 ```
 
+  <br>
+  <br>
+  
+  ## Running inside403
+  
+  Scan single URL+403direcotry with inside403 (here path "403here" has status code 403)
+```sh
+  inside403 -u https://sub.domain.tld/403here/
+  inside403 -u https://my.domain.com/admin.php
+  ```
