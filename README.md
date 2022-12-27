@@ -45,8 +45,7 @@ inside403 -h
 This will display help for the tool. Here are all the switches it supports.
   
 ```console
-  
-  [ABOUT]
+ [ABOUT]
    INSIDE403 is a Scanner for directory/path which has status code 403 and test for possible 403 Bypass
    and try to bypass it.
 
@@ -80,9 +79,6 @@ This will display help for the tool. Here are all the switches it supports.
        Default wordlist at:- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
        inside403 -l httpxResults.txt 
     [HELP:]
-       -h, --help    to get help menu
-
-  
-  
+       -h, --help    to get help menu 
 ```
 
