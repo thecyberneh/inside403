@@ -13,6 +13,11 @@
 <a href="https://twitter.com/thecyberneh"><img src="https://img.shields.io/twitter/follow/thecyberneh?style=social"></a>
 </p>
 
+<p align="center">
+  <a href="#install-inside403">Instllation</a> •
+  <a href="#usage">Usage</a> •
+</p>
+
 ## Install INSIDE403
 
 ## USAGE
