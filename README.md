@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="#install-inside403">Instllation</a> •
-  <a href="#usage">Usage</a>
+  <a href="#usage">Usage</a> •
+  <a href="#running-inside403">How to run effectively</a>
 </p>
 
 ## Install INSIDE403
