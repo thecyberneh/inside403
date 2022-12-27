@@ -43,4 +43,46 @@ For complete installation, run following command
 inside403 -h
 ```
 This will display help for the tool. Here are all the switches it supports.
+  
+```console
+  
+  [ABOUT]
+   INSIDE403 is a Scanner for directory/path which has status code 403 and test for possible 403 Bypass
+   and try to bypass it.
+
+
+[Usage:]
+   inside403 [flags]
+
+
+[FLAGS:]
+    [TARGET:]
+       -l, --list       target URLs/hosts to scan
+       -u, --url        Target URL+Directory to Scan
+
+
+    [WORDLIST:]
+       -w, --wordlist    path of your wordlist
+
+
+[Examples:]
+   Try to bypass 403 on directory:- 403here
+       inside403 -u https://sub.domain.tld/403here 
+
+
+   Try to find directories with 403 from URL list
+   with wordlist located at:- /path/to/wordlist.txt
+       inside403 -l httpxResults.txt -w /path/to/wordlist.txt 
+   You can use results from HTTPX tool as URL list
+
+
+   Run tool with default wordlist
+       Default wordlist at:- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+       inside403 -l httpxResults.txt 
+    [HELP:]
+       -h, --help    to get help menu
+
+  
+  
+```
 
