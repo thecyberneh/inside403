@@ -89,12 +89,17 @@ This will display help for the tool. Here are all the switches it supports.
   
   Scan single URL+403direcotry with inside403 (here path "403here" has status code 403)
 ```sh
-  inside403 -u https://sub.domain.tld/403here/
-  inside403 -u https://my.domain.com/admin.php
+ inside403 -u https://sub.domain.tld/403here/
+ inside403 -u https://my.domain.com/admin.php
   ```
    <br>
   
   You can use this tool on output of **HTTPX** tool for automation :)
   ```sh
   inside403 -l httpxResults.txt
+  ```
+  
+  You can also provide your own wordlist of 403 possible paths with `-w` or `--wordlist` flag
+  ```sh
+  inside403 -l httpxResults.txt -w /path/to/mywordlist.txt
   ```
