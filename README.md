@@ -13,6 +13,6 @@
 <a href="https://twitter.com/thecyberneh"><img src="https://img.shields.io/twitter/follow/thecyberneh?style=social"></a>
 </p>
 
-## Install Inside403
+## Install INSIDE403
 
 ## USAGE
