@@ -19,6 +19,8 @@
 </p>
 
 ## Install INSIDE403
-INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>
+INSIDE403 requires <a href="https://github.com/ffuf/ffuf">**FFUF**<a>.
+Also this tool will consider following wordlist as default wordlist
+   hh 
 
 ## USAGE
