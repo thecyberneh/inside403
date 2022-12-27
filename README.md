@@ -45,7 +45,7 @@ inside403 -h
 This will display help for the tool. Here are all the switches it supports.
   
 ```console
- [ABOUT]
+[ABOUT]
    INSIDE403 is a Scanner for directory/path which has status code 403 and test for possible 403 Bypass
    and try to bypass it.
 
